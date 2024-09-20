@@ -3,7 +3,7 @@
 Im am a self-taught front end web developer, currently working on projects to add to my Github profile
 I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design offered by freeCodecamp
 
-I am currently busy with online courses offered by freeCodeCamp, & still interested in learning other languages such as C, Python, PHP, back end development etc, as well as blockchain development.
+I am currently busy completing online courses offered by freeCodeCamp, Codecademy and others & still interested in learning other languages such as C, Python, PHP, back end development etc, as well as blockchain development.
 I’m looking to collaborate on any projects where i can contribute my HTML, CSS & Javascript skills.
 
 Completed Courses:
