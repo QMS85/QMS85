@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jonathan 
 
-Im am a self-taught front end web developer, currently working on projects to add to my Github profile
+Im am a self-taught front end web developer, currently working on projects to add to my Github profile (repositories)
 I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design offered by freeCodecamp
 
 I am currently busy completing online courses offered by freeCodeCamp, Codecademy and others & still interested in learning other languages such as C, Python, PHP, back end development etc, as well as blockchain development.
