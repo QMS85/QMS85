@@ -6,7 +6,7 @@ I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as 
 I am currently busy completing online courses offered by freeCodeCamp, Codecademy and others & still interested in learning other languages such as C, Python, PHP, back end development etc, as well as blockchain development.
 I’m looking to collaborate on any projects where i can contribute my HTML, CSS & Javascript skills.
 
-Completed Courses:
+Completed Courses Offered By Bitdegree
 ![bitdegree-certificate-719453](https://github.com/user-attachments/assets/be514097-5b73-4f73-9cfd-6fe565a87d61)
 ![bitdegree-certificate-719453 (1)](https://github.com/user-attachments/assets/641b9e92-c5eb-4a91-b3d1-fbfd4e622231)
 ![bitdegree-certificate-719453 (2)](https://github.com/user-attachments/assets/bc45719d-3444-41c6-bba1-e30f079d1739)
