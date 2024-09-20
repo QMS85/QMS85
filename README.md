@@ -1,12 +1,13 @@
 ## Hi there 👋 I'm Jonathan 
 
-Im am a self-taught front end web developer, currently working on projects to add to my Github profile (repositories).
+I am a self-taught front end web developer, currently working on projects to add to my Github profile (repositories).
 
 I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design offered by freeCodecamp.
 
 I am currently busy completing online courses offered by freeCodeCamp, Codecademy and others & i'm interested in learning other languages such as C, Python, PHP, back end development etc as well as blockchain development.
 
 I’m looking to collaborate on any projects where i can contribute my HTML, CSS & Javascript skills, as well as land full-time employment as a front-end dev.
+If full-time employment even exists...
 
 Apart from coding, im also a house music DJ/Producer & label owner @ Digital Divide Records. 
 I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
