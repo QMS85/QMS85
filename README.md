@@ -15,6 +15,8 @@ My Completed Corses Offered By freeCodeCamp:
    https://www.freecodecamp.org/certification/Jonathan_Peters/data-visualization
 
 My Completed Courses Offered By Bitdegree:
+
+
 <img src="https://github.com/user-attachments/assets/be514097-5b73-4f73-9cfd-6fe565a87d61" width="200">
 <img src="https://github.com/user-attachments/assets/641b9e92-c5eb-4a91-b3d1-fbfd4e622231" width="200">
 <img src="https://github.com/user-attachments/assets/bc45719d-3444-41c6-bba1-e30f079d1739" width="200">
