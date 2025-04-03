@@ -8,13 +8,12 @@ As i would still love to learn other languages such as Python, PHP Etc Etc, ther
 
 Apart from coding, im also a house music DJ/Producer & label owner @ Digital Divide Records. 
 I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
-My Completed Corses Offered By freeCodeCamp:
+My Completed Courses Offered By freeCodeCamp:
 
-1. <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/responsive-web-design">
+   1. <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/responsive-web-design">
    <img src="./free1.png" alt="Responsive Web Design" width="200"/>
    </a>
-   
-2. <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/data-visualization">
+   2. <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/data-visualization">
    <img src="./free2.png" alt="Data Visualization" width="200"/>
    </a>
 
