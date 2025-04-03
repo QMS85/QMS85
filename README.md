@@ -29,5 +29,5 @@ My Completed Courses Offered By Bitdegree:
 <img src="https://github.com/user-attachments/assets/aae7c9a7-a0ef-4f8e-8621-92cc54d5934f" width="200">
 
 
-![Snake animation](https://github.com/<QMS85>/github-snake/blob/output/dist/snake.svg)
+![Snake animation](https://github.com/QMS85/github-snake/blob/output/dist/snake.svg)
 
