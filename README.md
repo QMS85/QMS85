@@ -18,6 +18,7 @@ My Completed Courses Offered By freeCodeCamp:
 <img src="./free2.png" alt="Data Visualization" width="200"/>
 </a>
 
+
 My Completed Courses Offered By Bitdegree:
 
 
