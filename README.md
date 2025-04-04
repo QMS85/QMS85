@@ -17,6 +17,8 @@ My Completed Courses Offered By freeCodeCamp:
 <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/data-visualization">
 <img src="./free2.png" alt="Data Visualization" width="200"/>
 </a>
+<a href="https://www.freecodecamp.org/certification/Jonathan_Peters/front-end-development-libraries">
+<img src="./free3.png" alt="front-end-development-libraries" width="200"/>
 
 
 My Completed Courses Offered By Bitdegree:
