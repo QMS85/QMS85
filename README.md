@@ -34,3 +34,34 @@ My Completed Courses Offered By Bitdegree:
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=QMS85&color=blue)
+
+
+# Welcome to My GitHub Profile!
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.facebook.com/2jonathanpeters" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/facebook.svg" alt="Facebook" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://twitter.com/DJJonnas85" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/twitter.svg" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/instagram.svg" alt="Instagram" height="30" width="30" /></a>
+</p>
+
+## Tech Stack
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/html5.svg" alt="HTML" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/css3.svg" alt="CSS" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/javascript.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/react.svg" alt="React" width="40" height="40"/> </a>
+</p>
+
+## Tools
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/vscode.svg" alt="VS Code" width="40" height="40"/> </a>
+  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/replit.svg" alt="Replit" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/github.svg" alt="GitHub" width="40" height="40"/> </a>
+</p>
