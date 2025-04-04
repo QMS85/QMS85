@@ -1,10 +1,12 @@
 ## Hi there 👋 I'm Jonathan 
 
+Welcome to my Gihub profile
+
 I am a self-taught front-end web developer.
 I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design, data visualization & front-end development libraries offered by freeCodecamp.
 
 In my spare time I'm busy completing online courses offered by Bitdegree, Codecademy, Educative & freeCodeCamp.
-As i would still love to learn other languages such as Python, PHP Etc Etc, there's a lot if programming languages out there...and start a trip into back-end development, as well as blockchain development.
+I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python, PHP Etc Etc, there's a lot if programming languages out there...and start a trip into back-end development, as well as blockchain development.
 
 Apart from coding, im also a house music DJ/Producer & label owner @ Digital Divide Records. 
 I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
@@ -35,33 +37,31 @@ My Completed Courses Offered By Bitdegree:
 
 ![Profile views](https://komarev.com/ghpvc/?username=QMS85&color=blue)
 
-
-# Welcome to My GitHub Profile!
-
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.facebook.com/2jonathanpeters" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/facebook.svg" alt="Facebook" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
-  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/QMS85/icons/main/instagram.svg" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30"/></a>
+  <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="30"/></a>
+  <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30"/></a>
 </p>
 
 ## Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/html5.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/css3.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/javascript.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/react.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 </p>
 
 ## Tools
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
-  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/replit.svg" alt="Replit" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/QMS85/icons/main/github.svg" alt="GitHub" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+  <a href="https://replit.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original-wordmark.svg" alt="Replit" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="GithubCodeSpaces width="40" height="40"/>
 </p>
