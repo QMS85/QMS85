@@ -19,7 +19,7 @@ My Completed Courses Offered By freeCodeCamp:
 </a>
 <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/front-end-development-libraries">
 <img src="./free3.png" alt="front-end-development-libraries" width="200"/>
-
+</a>
 
 
 
