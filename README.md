@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jonathan 
 
 I am a self-taught front-end web developer.
-I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design & data visualization offered by freeCodecamp.
+I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design, data visualization & front-end development libraries offered by freeCodecamp.
 
 In my spare time I'm busy completing online courses offered by Bitdegree, Codecademy, Educative & freeCodeCamp.
 As i would still love to learn other languages such as Python, PHP Etc Etc, there's a lot if programming languages out there...and start a trip into back-end development, as well as blockchain development.
