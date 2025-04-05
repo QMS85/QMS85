@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Jonathan 
-
-Welcome to my Gihub profile
+## Welcome to my Gihub profile
 
 I am a self-taught front-end web developer.
 I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as responsive web design, data visualization & front-end development libraries offered by freeCodecamp.
