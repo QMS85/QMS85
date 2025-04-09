@@ -19,7 +19,10 @@ My Completed Courses Offered By freeCodeCamp:
 <img src="./free2.png" alt="Data Visualization" width="200"/>
 </a>
 <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/front-end-development-libraries">
-<img src="./free3.png" alt="front-end-development-libraries" width="200"/>
+<img src="./free3.png" alt="Front-End-Development-libraries" width="200"/>
+</a>
+<a href="https://www.freecodecamp.org/certification/Jonathan_Peters/javascript-algorithms-and-data-structures-v8">
+<img src="free4.png" alt="JavaScript-Algorithms-And-Data-Structures" width="200"/>
 </a>
 
 
