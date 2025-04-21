@@ -73,8 +73,9 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="GithubCodeSpaces width="40" height="40"/>
 </p>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QMS85&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QMS85&theme=github_dark) |
-|---------------------------------------------------------------------------------------------------------------|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QMS85&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-
+language?username=QMS85&theme=github_dark)|
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QMS85&theme=github_dark) |
 |------------------------------------------------------------------------------------------------------------------|
