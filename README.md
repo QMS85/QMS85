@@ -7,7 +7,7 @@ I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](ht
 In my spare time I'm busy completing online courses offered by [Bitdegree](https://www.bitdegree.org/courses/), [Codecademy](https://www.codecademy.com/), [Educative](https://www.educative.io/) & Others, Completing Projects & Challenges, writing some articles etc.
 I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python, Etc Etc, there's a lot if programming languages out there...and start a trip into back-end development, as well as blockchain development.
 
-Apart from coding, i'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/). Releases are available on [Beatport](https://www.beatport.com/label/digital-divide-records/100802), [Traxsource](https://www.traxsource.com/label/62753/), [Juno Download](https://www.junodownload.com/labels/Digital+Divide/) & all major download & streaming platforms
+Apart from coding, i'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/). Releases are available on [Beatport](https://www.beatport.com/label/digital-divide-records/100802), [Traxsource](https://www.traxsource.com/label/62753/), [Juno Download](https://www.junodownload.com/labels/Digital+Divide/) & all major download & streaming platforms.
 I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
 
 My Completed Courses Offered By freeCodeCamp:
