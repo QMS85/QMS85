@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm [Jonathan](https://qms85.github.io/MyPortfolio/) 
-## Welcome to my Gihub profile
+## Welcome to my Github profile
 
-I am a self-taught front-end web developer.
-I have completed HTML, CSS & JavaScript online courses offered by Bitdegree, as well as Responsive web design, data visualization & front-end development libraries offered by freeCodecamp.
+I am a self-taught Front-End Web Developer.
+I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](https://www.bitdegree.org/courses/user/djjonnas/profile), as well as [Responsive Web Design](https://www.freecodecamp.org/certification/Jonathan_Peters/responsive-web-design), [Data Visualization](https://www.freecodecamp.org/certification/Jonathan_Peters/data-visualization) & [Front-End Development Libraries](https://www.freecodecamp.org/certification/Jonathan_Peters/front-end-development-libraries) & [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/certification/Jonathan_Peters/javascript-algorithms-and-data-structures-v8) offered by [freeCodecamp](https://www.freecodecamp.org/learn/).
 
 In my spare time I'm busy completing online courses offered by Bitdegree, Codecademy, Educative & freeCodeCamp.
-I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python, PHP Etc Etc, there's a lot if programming languages out there...and start a trip into back-end development, as well as blockchain development.
+I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python, Etc Etc, there's a lot if programming languages out there...and start a trip into back-end development, as well as blockchain development.
 
 Apart from coding, im also a house music DJ/Producer & label owner @ Digital Divide Records. 
 I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
