@@ -61,7 +61,11 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/></a>
   <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30"/></a>
 </p>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<!-- Gmail Icon and Clickable Email Link -->
+<a href="mailto:your.email@gmail.com" style="text-decoration:none; display:inline-flex; align-items:center;">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" style="vertical-align:middle; width:32px; height:32px; margin-right:8px;">
+    <span style="font-size:16px; color:#D44638; font-family:sans-serif;">your.email@gmail.com</span>
+</a>
 
 ## Tech Stack
 
