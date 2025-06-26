@@ -5,7 +5,8 @@ I am a self-taught Front-End Web Developer.
 I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](https://www.bitdegree.org/courses/), as well as [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), [Data Visualization](https://www.freecodecamp.org/learn/data-visualization),  [Front-End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) & [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) offered by [freeCodecamp](https://www.freecodecamp.org/learn/).
 
 In my spare time I'm busy completing online courses offered by [Bitdegree](https://www.bitdegree.org/), [Codecademy](https://www.codecademy.com/), [Educative](https://www.educative.io/), [freeCodeCamp](https://www.freecodecamp.org) & Others, Completing Projects & Challenges, writing some articles etc.
-I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python Etc Etc and start a trip into back-end development, as well as blockchain development... \  
+I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python Etc Etc and start a trip into back-end development, as well as blockchain development...   
+
 There are so many programming languages ...  
 Where do i start???
 
