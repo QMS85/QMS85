@@ -61,6 +61,7 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/></a>
   <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30"/></a>
 </p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonathanpeters051@gmail.com)
 
 ## Tech Stack
 
