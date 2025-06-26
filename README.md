@@ -11,9 +11,11 @@ There are so many programming languages 😲😲...:
 Where do i start???🤔🤔🤔
 
 Apart from coding, I'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/).  
-The releases are available on [Beatport](https://www.beatport.com/label/digital-divide-records/100802),  
-[Juno Download](https://www.junodownload.com/labels/Digital+Divide/) & all major download & streaming platforms.  
-I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
+The releases are available on  
+[Beatport](https://www.beatport.com/label/digital-divide-records/100802),  
+[Juno Download](https://www.junodownload.com/labels/Digital+Divide/)  
+& all major download & streaming platforms...  
+I enjoy listening to music, or creating house music, watching movies/series & reading when I have time available.
 
 My Completed Courses Offered By freeCodeCamp:
 
