@@ -7,7 +7,7 @@ I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](ht
 In my spare time I'm busy completing online courses offered by [Bitdegree](https://www.bitdegree.org/), [Codecademy](https://www.codecademy.com/), [Educative](https://www.educative.io/), [freeCodeCamp](https://www.freecodecamp.org) & others, completing projects & challenges, writing some articles etc.
 I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, python Etc Etc and start a trip into back-end development, as well as blockchain development...   
 
-There are so many programming languages 😲😲...:  
+There are so many programming languages 😲😲
 Where do i start???🤔🤔🤔
 
 Apart from coding, I'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/).  
