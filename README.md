@@ -11,7 +11,7 @@ There are so many programming languages 😲😲
 Where do i start???🤔🤔🤔
 
 Apart from coding, I'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/).  
-The releases are available on  
+The releases are available on:    
 [Beatport](https://www.beatport.com/label/digital-divide-records/100802),  
 [Juno Download](https://www.junodownload.com/labels/Digital+Divide/)  
 & all major download & streaming platforms...  
