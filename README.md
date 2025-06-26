@@ -4,11 +4,12 @@
 I am a self-taught Front-End Web Developer.
 I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](https://www.bitdegree.org/courses/), as well as [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), [Data Visualization](https://www.freecodecamp.org/learn/data-visualization),  [Front-End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) & [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) offered by [freeCodecamp](https://www.freecodecamp.org/learn/).
 
-In my spare time I'm busy completing online courses offered by [Bitdegree](https://www.bitdegree.org/), [Codecademy](https://www.codecademy.com/), [Educative](https://www.educative.io/) & Others, Completing Projects & Challenges, writing some articles etc.
-I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python Etc Etc and start a trip into back-end development, as well as blockchain development... There are so many languages ... 
+In my spare time I'm busy completing online courses offered by [Bitdegree](https://www.bitdegree.org/), [Codecademy](https://www.codecademy.com/), [Educative](https://www.educative.io/), [freeCodeCamp](https://www.freecodecamp.org) & Others, Completing Projects & Challenges, writing some articles etc.
+I would still love to learn other languages such as Express & Node JS, other Javascript frameworks/libraries, Python Etc Etc and start a trip into back-end development, as well as blockchain development... \  
+There are so many programming languages ...  
 Where do i start???
 
-Apart from coding, i'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/). Releases are available on [Beatport](https://www.beatport.com/label/digital-divide-records/100802),  
+Apart from coding, I'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/). The releases are available on [Beatport](https://www.beatport.com/label/digital-divide-records/100802),  
 [Juno Download](https://www.junodownload.com/labels/Digital+Divide/) & all major download & streaming platforms.
 I enjoy listening to music, or creating house music, watching movies/series & reading when i have time available.
 
@@ -29,7 +30,10 @@ My Completed Courses Offered By freeCodeCamp:
 
 
 
+
 My Completed Courses Offered By Bitdegree:
+
+
 
 
 <img src="https://github.com/user-attachments/assets/be514097-5b73-4f73-9cfd-6fe565a87d61" width="200">
@@ -37,6 +41,7 @@ My Completed Courses Offered By Bitdegree:
 <img src="https://github.com/user-attachments/assets/bc45719d-3444-41c6-bba1-e30f079d1739" width="200">
 <img src="https://github.com/user-attachments/assets/771d59b9-a1e5-432b-a1d7-e2e54699d87e" width="200">
 <img src="https://github.com/user-attachments/assets/aae7c9a7-a0ef-4f8e-8621-92cc54d5934f" width="200">
+
 
 
 
