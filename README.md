@@ -52,19 +52,12 @@ My Completed Courses Offered By Bitdegree:
 ![Profile views](https://komarev.com/ghpvc/?username=QMS85&color=blue)
 
 
-
-
 ## Connect with me
 
 <p align="left">
   <a href="https://www.facebook.com/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30"/></a>
   <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/></a>
   <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30"/></a>
-<!-- Gmail Icon and Clickable Email Link -->
-<a href="mailto:jonathanpeters051@gmail.com" style="text-decoration:none; display:inline-flex; align-items:center;">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" style="vertical-align:middle; width:32px; height:32px; margin-right:8px;">
-    <span style="font-size:16px; color:#D44638; font-family:sans-serif;"></span>
-</a>
 </p>
 
 ## Tech Stack
