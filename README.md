@@ -52,6 +52,9 @@ My Completed Courses Offered By Bitdegree:
 ![Profile views](https://komarev.com/ghpvc/?username=QMS85&color=blue)
 
 
+
+
+
 ## Connect with me
 
 <p align="left">
@@ -79,7 +82,7 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://replit.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" alt="Replit" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="GithubCodeSpaces width="40" height="40"</a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="GithubCodeSpaces" width="40" height="40"</a>
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
