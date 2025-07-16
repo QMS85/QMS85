@@ -63,7 +63,7 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30"/></a>
 </p>
 <a href="mailto:jonathanpeters051@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" style="vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" style="vertical-align:middle;">
 </a>
 
 ## Tech Stack
