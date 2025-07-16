@@ -62,6 +62,7 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://linkedin.com/in/2jonathanpeters" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/></a>
   <a href="https://twitter.com/DJJonnas85" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30"/></a>
 </p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
 ## Tech Stack
 
@@ -75,6 +76,7 @@ My Completed Courses Offered By Bitdegree:
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 </p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Tools
 
