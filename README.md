@@ -19,7 +19,7 @@ I enjoy listening to music, or creating house music, watching movies/series & re
 
 My Completed Courses Offered By freeCodeCamp:
 
-<a href="https://www.freecodecamp.org/certification/Jonathan_Peters/responsive-web-design">
+<a href="https://www.freecodecamp.org/certification/jonathan_peters/responsive-web-design-v9">
 <img src="./free1.png" alt="Responsive Web Design" width="200"/>
 </a>
 <a href="https://www.freecodecamp.org/certification/Jonathan_Peters/data-visualization">
