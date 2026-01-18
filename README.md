@@ -2,7 +2,7 @@
 ## Welcome to my Github profile
 
 I am a self-taught Front-End Web Developer.
-I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](https://www.bitdegree.org/courses/), as well as [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), [Data Visualization](https://www.freecodecamp.org/learn/data-visualization),  [Front-End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) & [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) offered by [freeCodecamp](https://www.freecodecamp.org/learn/).
+I have completed HTML, CSS & JavaScript online courses offered by [Bitdegree](https://www.bitdegree.org/courses/), as well as [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design-v9/), [Data Visualization](https://www.freecodecamp.org/learn/data-visualization),  [Front-End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries) & [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) offered by [freeCodecamp](https://www.freecodecamp.org/learn/).
 
 In my spare time I'm busy completing online courses offered by [Bitdegree](https://www.bitdegree.org/), [Codecademy](https://www.codecademy.com/), [Educative](https://www.educative.io/), [freeCodeCamp](https://www.freecodecamp.org) & others, completing projects & challenges, writing some articles etc.  
 I am currently learning other languages such as Express & Node JS, other Javascript frameworks/libraries, Python, TypeScript and starting a trip into Back-end development, as well as blockchain development...   
