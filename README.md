@@ -12,10 +12,9 @@ Where do i start???🤔🤔🤔
 
 Apart from coding, I'm also a house music DJ/Producer & label owner @ [Digital Divide Records](https://digitaldividerecords-pty-ltd.github.io/DigitalDivideRecords/).  
 The releases are available on:    
-[Beatport](https://www.beatport.com/label/digital-divide-records/100802),  
-[Juno Download](https://www.junodownload.com/labels/Digital+Divide/)  
+[Beatport](https://www.beatport.com/label/digital-divide-records/100802),   
 & all major download & streaming platforms...  
-I enjoy listening to music, or creating house music, watching movies/series & reading when I have time available.
+I enjoy listening to music, or creating house music, watching movies/series & reading when I have time available & keeping my briancells busy with code
 
 My Completed Courses Offered By freeCodeCamp:
 
